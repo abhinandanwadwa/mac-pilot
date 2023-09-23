@@ -9,7 +9,9 @@ function App() {
   }, []);
 
   return (
-      <input style={{ width: '100%', fontSize: 20, height: '25px', margin: 0, padding: 0 }} type="text" name="text" placeholder="Search..." />
+    <form action="">
+      <input style={{ width: '100.5%', fontSize: 20, height: '35px', marginBottom: '-15px', marginTop: '-8px', marginLeft: '-8px', border: 'none', outline: 'none', overflow: 'hidden', background: '#ffffff47', padding: '5px', color: 'whitesmoke' }} type="text" name="text" placeholder="Start Typing" />
+    </form>
   );
 }
 
