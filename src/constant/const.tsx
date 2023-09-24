@@ -1,0 +1,4 @@
+export const prompts = [
+    "Give me ideas for my next project", "Come up with concepts for my next horror book", "Compare design principles for mobile apps and desktop software", "Make a content strategy for a newsletter featuring local weekend events", "Write a python script to automate daily email reports", "Write the spreadsheet formula to convert a day to a weekday", "Compare continuous integration and continous development", "Explain superconductors in Layman's terms", "Design a database schema for an ecommerce website", 
+    "Send an HTTP request in Node.js", "Tell me about Kubernetes", "Share some resources to help improve my communication skills"
+]
